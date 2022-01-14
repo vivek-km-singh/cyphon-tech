@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/viveksi25647256" target="blank"><img src="https://img.shields.io/twitter/follow/viveksi25647256?logo=twitter&style=for-the-badge" alt="viveksi25647256" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [cyphon-tech-portfolio.herokuapp.com](cyphon-tech-portfolio.herokuapp.com)
-- <img align="right" alt="Coding" width="400" src="http://i-ps.co.uk/wp-content/uploads/2018/05/Mobile-app-blog.gif">
+- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif">
 
 
 - 📫 How to reach me **viveksingh9000rk@gmail.com**
