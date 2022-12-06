@@ -1,7 +1,7 @@
 
  <img align="right" alt="Coding"  src="https://media-exp1.licdn.com/dms/image/C5616AQFR4JIm_FDdVg/profile-displaybackgroundimage-shrink_350_1400/0/1607187327471?e=1675900800&v=beta&t=FRZdRBVZDwSqop0qSTyIL4zv4wjjl8W4KiUOSeigks8">
 <h1 align="center">Hi 👋, I'm vivek singh</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate MERN Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyphon-tech&label=Profile%20views&color=0e75b6&style=flat" alt="cyphon-tech" /> </p>
 
@@ -10,12 +10,12 @@
 <p align="left"> <a href="https://twitter.com/viveksi25647256" target="blank"><img src="https://img.shields.io/twitter/follow/viveksi25647256?logo=twitter&style=for-the-badge" alt="viveksi25647256" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [cyphon-tech-portfolio.herokuapp.com](cyphon-tech-portfolio.herokuapp.com)
-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif">
 
+ <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif">
 
 - 📫 How to reach me **viveksingh9000rk@gmail.com**
 
-- ⚡ Fun fact **Doing web Developemt with music**
+- ⚡ Fun fact **Doing web Developemt with Music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
